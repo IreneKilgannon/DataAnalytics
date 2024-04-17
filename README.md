@@ -1,7 +1,9 @@
 # Analysis of the Palmer Penguins Data Set
 ***
 
-This repository is my analysis of the Palmer Penguins data set. This analysis was the assessment task for the module, Principles of Data Analytics as part of the H. Dip in Science in Data Analytics, ATU.
+Author: Irene Kilgannon
+
+This repository is my analysis of the Palmer Penguins data set. This analysis was the assessment task for the module, Principles of Data Analytics as part of the H. Dip in Science in Data Analytics, Atlantic Technological University.
 
 
 ## Purpose of The Project
@@ -10,7 +12,6 @@ The purpose of this project is to demonstrate the following:
 1. The sourcing and investigating of a data set, the Palmer penguins data set.
 2. To programmatically explore and visualise data. 
 3. To apply basic mathematical data analysis to the data set e.g. calculate the mean, standard deviation of a variable in the data set. 
-4. To demonstrate 
 
 
 ## Outline of The Project
@@ -44,5 +45,5 @@ If you have any questions or queries please contact me at g00220627@atu.ie or al
 
 ## Author
 
-Irene Kilgannon
+Irene Kilgannon. 
 
