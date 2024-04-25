@@ -3,6 +3,8 @@
 
 Author: Irene Kilgannon
 
+Student ID: 00220627
+
 This repository is my analysis of the Palmer Penguins data set. This analysis was the assessment task for the module, Principles of Data Analytics as part of the H. Dip in Science in Data Analytics, Atlantic Technological University.
 
 
