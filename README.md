@@ -3,12 +3,12 @@
 
 Author: Irene Kilgannon
 
-Student ID: 00220627
+Student ID: G00220627
 
-This repository is my analysis of the Palmer Penguins data set. This analysis was the assessment task for the module, Principles of Data Analytics as part of the H. Dip in Science in Data Analytics, Atlantic Technological University.
+This repository is my analysis of the Palmer Penguins data set. This analysis was the assessment task for the module, Principles of Data Analytics as part of the [Higher Diploma in Science in Computing in Data Analytics](https://www.gmit.ie/higher-diploma-in-science-in-computing-in-data-analytics), Atlantic Technological University.
 
 
-## Purpose of The Project
+## Purpose of The Assessment
 
 The purpose of this project is to demonstrate the following:
 1. The sourcing and investigating of a data set, the Palmer penguins data set.
@@ -16,9 +16,9 @@ The purpose of this project is to demonstrate the following:
 3. To apply basic mathematical data analysis to the data set e.g. calculate the mean, standard deviation of a variable in the data set. 
 
 
-## Outline of The Project
+## Outline of The Assessment
 
-This project consists of two parts, the tasks and the project.
+This assessment consists of two parts, the tasks and the project.
 
 __The Tasks__
 1. To create a GitHub repository with a README.md, a .gitignore and a Jupyter notebook entitled penguins.ipynb.
@@ -47,5 +47,5 @@ If you have any questions or queries please contact me at g00220627@atu.ie or al
 
 ## Author
 
-Irene Kilgannon. 
+Irene Kilgannon.
 
