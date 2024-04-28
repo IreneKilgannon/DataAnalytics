@@ -45,7 +45,7 @@ __Step 3__ Load the [palmer penguins data set](https://raw.githubusercontent.com
 If you have any questions or queries please contact me at g00220627@atu.ie or alternatively submit [an issue](https://github.com/IreneKilgannon/DataAnalytics/issues).
 
 
-## Author
+## About the Author
 
-Irene Kilgannon.
+My name is Irene Kilgannon. I'm studying for a H. Dip in Data Analytics at ATU and I have no previous coding experience. I'm hoping to return to the workforce upon completion of the course.
 
