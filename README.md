@@ -33,7 +33,7 @@ Select two variables from the data set and provide an analysis of how correlated
 
 ## Get Started
 
-__Step 1__ Download and install [Anaconda](https://www.anaconda.com/download). Anaconda is a Python distributon and comes with pre-installed packages such as [pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/) and [Matplotlib](https://matplotlib.org/) which are required for this project.
+__Step 1__ Download and install [Anaconda](https://www.anaconda.com/download). Anaconda is a Python distribution and comes with pre-installed packages such as [pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/) and [Matplotlib](https://matplotlib.org/) which are required for this project.
 
 __Step 2__ Download and install [Visual Studio Code](https://code.visualstudio.com/). 
 
